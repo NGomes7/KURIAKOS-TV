@@ -1,0 +1,26 @@
+#EXTINF:-1, KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist_w1010434838_b413000_sleng.m3u8
+
+#EXTINF:-1, KURIAKOS MUSIC
+https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1527770299_b413000_sleng.m3u8
+
+#EXTINF:-1, KURIAKOS KIDS
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w125314393_b413000_sleng.m3u8
+
+#EXTINF:-1, TV MANA 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w393215278_b413000_sleng.m3u8
+
+#EXTINF:-1, TV MANA BRASIL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693557540/ei/xE7xZJHZJuKNtQfz8Jr4Aw/ip/2607%3A9880%3A2c68%3A134%3Af977%3A318c%3Ae749%3A614f/id/aYXTOXNOTNQ.1/source/yt_live_broadcast/requiressl/yes/tx/24540597/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f1A6kyPOasQASAwWlEERfEIQ_VcbIUmyfygwNwq0IQr3DZcIhhI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgE7PsG8YmZ2aG0b5ynvBHLJazEKe6fRv4FOciLlsa7M8CIQCcoJBofiCHKX67Ekn2EevphQiXAYH7RL680LQx5MueHQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1, TV MANA MOCAMBIQUE
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+
+#EXTINF:-1, KK TV ANGOLA
+https://w1.manasat.com:443/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+
+#EXTINF:-1, TV MANA ENGLISH
+https://w1.manasat.com:443/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+
+#EXTINF:-1, CANAL DE ORACAO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1693559168/ei/IFXxZNHOCIjAjQSS_ZHYDg/ip/2607%3A9880%3A2c68%3A134%3Af977%3A318c%3Ae749%3A614f/id/nSmlgNhpNO0.1/source/yt_live_broadcast/requiressl/yes/tx/24540597/txs/24540597%2C24540598%2C24540599%2C24540600%2C24540601%2C24540602%2C24540603%2C24540604/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f6gdvTzWnzecak40vypnmMX_jLdLsLW9LDQZDDWb1ApGw5L0s8I/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYYnFb5roxwuQAv13xBNnhkiDtfh4PZjaMOOaP91TLKMCIB8HXkg1ryF15uIeNUp-ltYyc_PmUMSbi4lk0pmlUMte/file/index.m3u8
